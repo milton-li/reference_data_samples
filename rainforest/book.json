@@ -1,0 +1,522 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 23,
+    "credits_remaining": 77,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B0B7QC7WKN",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-08-16T17:40:08.115Z",
+    "processed_at": "2022-08-16T17:40:11.692Z",
+    "total_time_taken": 3.58,
+    "amazon_url": "https://www.amazon.com/dp/B0B7QC7WKN?th=1&psc=1"
+  },
+  "product": {
+    "title": "Knowledge Graphs: Fundamentals, Techniques, and Applications, Paperback",
+    "search_alias": {
+      "title": "Books",
+      "value": "stripbooks"
+    },
+    "keywords": "Knowledge,Graphs:,Fundamentals,,Techniques,,and,Applications,,Paperback",
+    "keywords_list": [
+      "Knowledge",
+      "Graphs:",
+      "Fundamentals",
+      "Techniques",
+      "Applications",
+      "Paperback"
+    ],
+    "asin": "B0B7QC7WKN",
+    "link": "https://www.amazon.com/Knowledge-Graphs-Fundamentals-Techniques-Applications/dp/B0B7QC7WKN",
+    "variants": [
+      {
+        "asin": "B0B7QC7WKN",
+        "is_current_product": true,
+        "title": "Paperback  $26.99",
+        "link": "https://www.amazon.com/Knowledge-Graphs-Fundamentals-Techniques-Applications-dp-B0B7QC7WKN/dp/B0B7QC7WKN/ref=mt_other?_encoding=UTF8&me=&qid=",
+        "price": {
+          "symbol": "$",
+          "value": 26.99,
+          "currency": "USD",
+          "raw": "$26.99"
+        }
+      }
+    ],
+    "variant_asins_flat": "B0B7QC7WKN",
+    "authors": [
+      {
+        "name": "Marai",
+        "link": "https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Marai&text=Marai&sort=relevancerank&search-alias=books"
+      }
+    ],
+    "format": "Paperback  $26.99",
+    "categories": [
+      {
+        "name": "Books",
+        "link": "https://www.amazon.com/books-used-books-textbooks/b/ref=dp_bc_aui_C_1?ie=UTF8&node=283155",
+        "category_id": "283155"
+      },
+      {
+        "name": "Computers & Technology",
+        "link": "https://www.amazon.com/Computers-Technology-Books/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5",
+        "category_id": "5"
+      },
+      {
+        "name": "Software",
+        "link": "https://www.amazon.com/Software-Computers-Internet-Books/b/ref=dp_bc_aui_C_3?ie=UTF8&node=4053",
+        "category_id": "4053"
+      }
+    ],
+    "categories_flat": "Books > Computers & Technology > Software",
+    "sub_title": {
+      "text": "by         Marai        (Author)",
+      "link": "https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Marai&text=Marai&sort=relevancerank&search-alias=books"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "book_description": "Knowledge Graphs: Fundamentals, Techniques, and Applications (Adaptive Computation and Machine Learning series)The field of knowledge graphs, which allows us to model, process, and derive insights from complex real-world data, has emerged as an active and interdisciplinary area of artificial intelligence over the last decade, drawing on such fields as natural language processing, data mining, and the semantic web. Current projects involve predicting cyberattacks, recommending products, and even gleaning insights from thousands of papers on COVID-19. This textbook offers rigorous and comprehensive coverage of the field. It focuses systematically on the major approaches, both those that have stood the test of time and the latest deep learning methods.",
+    "editorial_reviews": [
+      {
+        "body": ""
+      }
+    ],
+    "editorial_reviews_flat": "",
+    "main_image": {
+      "link": "https://images-na.ssl-images-amazon.com/images/I/51xGmOJ2YvL.jpg"
+    },
+    "is_bundle": false,
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Monday, August 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, August 18",
+          "name": "Or fastest delivery Thursday, August 18"
+        },
+        "is_sold_by_amazon": true,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 26.99,
+        "currency": "USD",
+        "raw": "$26.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "ASIN",
+        "value": "B0B7QC7WKN"
+      },
+      {
+        "name": "Publisher",
+        "value": "Independently published (July 28, 2022)"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Paperback",
+        "value": "677 pages"
+      },
+      {
+        "name": "ISBN-13",
+        "value": "979-8842796984"
+      },
+      {
+        "name": "Item Weight",
+        "value": "3.59 pounds"
+      },
+      {
+        "name": "Dimensions",
+        "value": "8 x 1.53 x 10 inches"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Books"
+      }
+    ],
+    "specifications_flat": "Best Sellers Rank: See Top 100 in Books. Dimensions: 8 x 1.53 x 10 inches. Item Weight: 3.59 pounds. ISBN-13: 979-8842796984. Paperback: 677 pages. Language: English. Publisher: Independently published (July 28, 2022). ASIN: B0B7QC7WKN.",
+    "bestsellers_rank": [
+      {
+        "category": "Books",
+        "rank": 705635,
+        "link": "https://www.amazon.com/gp/bestsellers/books/ref=pd_zg_ts_books"
+      },
+      {
+        "category": "Desktop Database Books",
+        "rank": 97,
+        "link": "https://www.amazon.com/gp/bestsellers/books/10806626011/ref=pd_zg_hrsr_books"
+      },
+      {
+        "category": "Computer Science (Books)",
+        "rank": 6934,
+        "link": "https://www.amazon.com/gp/bestsellers/books/468204/ref=pd_zg_hrsr_books"
+      }
+    ],
+    "publisher": "Independently published (July 28, 2022)",
+    "isbn_13": "979-8842796984",
+    "language": "English",
+    "weight": "3.59 pounds",
+    "bestsellers_rank_flat": "Category: Books | Rank: 705635, Category: Desktop Database Books | Rank: 97, Category: Computer Science (Books) | Rank: 6934"
+  },
+  "also_viewed": [
+    {
+      "title": "Knowledge Graphs: Fundamentals, Techniques, and Applications (Adaptive Computation and Machine Learning series)",
+      "asin": "0262045095",
+      "link": "https://www.amazon.com/Knowledge-Graphs-Fundamentals-Applications-Computation/dp/0262045095/ref=d_pd_sbs_sccl_1_1/144-3992234-1643126?pd_rd_w=c6zd6&content-id=amzn1.sym.332ad193-f618-461a-9620-42bf983a8f8e&pf_rd_p=332ad193-f618-461a-9620-42bf983a8f8e&pf_rd_r=RZE1ESXY9K3BHA68VWY9&pd_rd_wg=JnCn3&pd_rd_r=5d0eb127-f970-4ed6-bf8e-012fa9ec9247&pd_rd_i=0262045095&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81P7awpOOOL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 44,
+      "price": {
+        "symbol": "$",
+        "value": 47.48,
+        "currency": "USD",
+        "raw": "$47.48"
+      }
+    }
+  ],
+  "also_bought": [
+    {
+      "title": "Knowledge Graphs: Fundamentals, Techniques, and Applications (Adaptive Computation and Machine Learning series)",
+      "asin": "0262045095",
+      "link": "https://www.amazon.com/Knowledge-Graphs-Fundamentals-Applications-Computation/dp/0262045095/ref=d_pd_sbs_sccl_1_1/144-3992234-1643126?pd_rd_w=c6zd6&content-id=amzn1.sym.332ad193-f618-461a-9620-42bf983a8f8e&pf_rd_p=332ad193-f618-461a-9620-42bf983a8f8e&pf_rd_r=RZE1ESXY9K3BHA68VWY9&pd_rd_wg=JnCn3&pd_rd_r=5d0eb127-f970-4ed6-bf8e-012fa9ec9247&pd_rd_i=0262045095&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81P7awpOOOL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 44,
+      "price": {
+        "symbol": "$",
+        "value": 47.48,
+        "currency": "USD",
+        "raw": "$47.48"
+      }
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Making Knowledge Management Clickable: Knowledge Management Systems Strategy, Design, and Implementation",
+      "asin": "3030923843",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDA0OTYxMzY1Mjk5ODo6Ojo&url=%2Fdp%2F3030923843%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D3030923843%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41dnZOUeAmL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 14,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 67.49,
+        "currency": "USD",
+        "raw": "$67.49"
+      }
+    },
+    {
+      "title": "R in Action, Third Edition: Data analysis and graphics with R and Tidyverse",
+      "asin": "1617296058",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDA1NTE1NjE5MTM5ODo6Ojo&url=%2Fdp%2F1617296058%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3D1617296058%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41fLPAFOZ0L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 6,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 59.99,
+        "currency": "USD",
+        "raw": "$59.99"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 2 (INSTRUCTOR GUIDE)",
+      "asin": "1897534329",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDAyOTAzNzQ3NzI3MTo6Ojo&url=%2Fdp%2F1897534329%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3D1897534329%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31Nnqa6WTrL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "AWS for Beginners: The Complete Beginner's Guide to Learn and Understand Amazon Web Services and Its Future in Modern World",
+      "asin": "B09KN7Z1GY",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDExMDQyOTk4NjgzMTo6Ojo&url=%2Fdp%2FB09KN7Z1GY%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09KN7Z1GY%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41Vrnkx-mvL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4,
+      "ratings_total": 36,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 20.97,
+        "currency": "USD",
+        "raw": "$20.97"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 1 (STUDENT GUIDE)",
+      "asin": "1897534272",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDAyOTAxNTM1NzE3MTo6Ojo&url=%2Fdp%2F1897534272%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3D1897534272%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/310SfjRE+xL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 8,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 2 (STUDENT GUIDE)",
+      "asin": "1897534337",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDAyOTAxODYxNzY3MTo6Ojo&url=%2Fdp%2F1897534337%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3D1897534337%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/313nVIGP6xL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 2,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 1 (INSTRUCTOR GUIDE)",
+      "asin": "1897534264",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDAyOTA0MDYzNjk3MTo6Ojo&url=%2Fdp%2F1897534264%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D1897534264%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/3112al6IS8L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "Learn SQL Quickly: A Beginner’s Guide to Learning SQL, Even If You’re New to Databases (Crash Course With Hands-On Project)",
+      "asin": "1951791789",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDA1MTk1MjAxNjk3MTo6Ojo&url=%2Fdp%2F1951791789%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3D1951791789%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41FhynDo1AL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 156,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 14.89,
+        "currency": "USD",
+        "raw": "$14.89"
+      }
+    },
+    {
+      "title": "The Business Case for AI: A Leader's Guide to AI Strategies, Best Practices & Real-World Applications",
+      "asin": "B09TRS55K8",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDA1MTk1Nzc5Njc5ODo6Ojo&url=%2Fdp%2FB09TRS55K8%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09TRS55K8%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41UXXWu6rBL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 23,
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      }
+    },
+    {
+      "title": "Analytics: Business Intelligence, Algorithms and Statistical Analysis",
+      "asin": "1974112101",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODgxNjU3NjIxNzcxNzkyOjE2NjA2NzE2MDk6c3BfZGV0YWlsOjIwMDA1MjA5ODQ2MTM4MTo6Ojo&url=%2Fdp%2F1974112101%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3D1974112101%26pd_rd_w%3D48Wpz%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41fPvvJRQzL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 16,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 16.97,
+        "currency": "USD",
+        "raw": "$16.97"
+      }
+    },
+    {
+      "title": "Making Knowledge Management Clickable: Knowledge Management Systems Strategy, Design, and Implementation",
+      "asin": "3030923843",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwNDk2MTM2NTI5OTg6Ojo6&url=%2Fdp%2F3030923843%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3D3030923843%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41dnZOUeAmL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 14,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 67.49,
+        "currency": "USD",
+        "raw": "$67.49"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 2 (INSTRUCTOR GUIDE)",
+      "asin": "1897534329",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwMjkwMzc0NzcyNzE6Ojo6&url=%2Fdp%2F1897534329%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3D1897534329%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31Nnqa6WTrL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "R in Action, Third Edition: Data analysis and graphics with R and Tidyverse",
+      "asin": "1617296058",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwNTUxNTYxOTEzOTg6Ojo6&url=%2Fdp%2F1617296058%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3D1617296058%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41fLPAFOZ0L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 6,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 59.99,
+        "currency": "USD",
+        "raw": "$59.99"
+      }
+    },
+    {
+      "title": "AWS for Beginners: The Complete Beginner's Guide to Learn and Understand Amazon Web Services and Its Future in Modern World",
+      "asin": "B09KN7Z1GY",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAxMTA0Mjk5ODY4MzE6Ojo6&url=%2Fdp%2FB09KN7Z1GY%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09KN7Z1GY%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41Vrnkx-mvL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4,
+      "ratings_total": 36,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 20.97,
+        "currency": "USD",
+        "raw": "$20.97"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 2 (STUDENT GUIDE)",
+      "asin": "1897534337",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwMjkwMTg2MTc2NzE6Ojo6&url=%2Fdp%2F1897534337%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3D1897534337%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/313nVIGP6xL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 2,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 1 (INSTRUCTOR GUIDE)",
+      "asin": "1897534264",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwMjkwNDA2MzY5NzE6Ojo6&url=%2Fdp%2F1897534264%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3D1897534264%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/3112al6IS8L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "Microsoft Access 365: Part 1 (STUDENT GUIDE)",
+      "asin": "1897534272",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwMjkwMTUzNTcxNzE6Ojo6&url=%2Fdp%2F1897534272%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3D1897534272%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/310SfjRE+xL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 8,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 29.95,
+        "currency": "USD",
+        "raw": "$29.95"
+      }
+    },
+    {
+      "title": "NFT FOR BEGINNERS: A Concise Beginner's Guide For Investing In Crypto Art And Metaverse To Make Passive Income",
+      "asin": "B0B3RD38TX",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwNjg1OTE1NjM5OTg6Ojo6&url=%2Fdp%2FB0B3RD38TX%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B3RD38TX%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41VljUixFiL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 12.9,
+        "currency": "USD",
+        "raw": "$12.90"
+      }
+    },
+    {
+      "title": "The Business Case for AI: A Leader's Guide to AI Strategies, Best Practices & Real-World Applications",
+      "asin": "B09TRS55K8",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwNTE5NTc3OTY3OTg6Ojo6&url=%2Fdp%2FB09TRS55K8%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09TRS55K8%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41UXXWu6rBL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 5,
+      "ratings_total": 23,
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      }
+    },
+    {
+      "title": "Learn SQL Quickly: A Beginner’s Guide to Learning SQL, Even If You’re New to Databases (Crash Course With Hands-On Project)",
+      "asin": "1951791789",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTg3MDE1MzAwMjEyMDQ5OjE2NjA2NzE2MDk6c3BfZGV0YWlsMjoyMDAwNTE5NTIwMTY5NzE6Ojo6&url=%2Fdp%2F1951791789%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3D1951791789%26pd_rd_w%3DggtQZ%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DRZE1ESXY9K3BHA68VWY9%26pd_rd_wg%3DJnCn3%26pd_rd_r%3D5d0eb127-f970-4ed6-bf8e-012fa9ec9247%26s%3Dbooks%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41FhynDo1AL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 156,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 14.89,
+        "currency": "USD",
+        "raw": "$14.89"
+      }
+    }
+  ]
+}

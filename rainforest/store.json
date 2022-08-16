@@ -1,0 +1,135 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 26,
+    "credits_remaining": 74,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "store",
+    "amazon_domain": "amazon.com",
+    "store_id": "A0A04D76-D946-42B4-A00A-7B9D20E8B166"
+  },
+  "request_metadata": {
+    "created_at": "2022-08-16T17:46:59.966Z",
+    "processed_at": "2022-08-16T17:47:04.472Z",
+    "total_time_taken": 4.51,
+    "amazon_url": "https://www.amazon.com/stores/page/A0A04D76-D946-42B4-A00A-7B9D20E8B166"
+  },
+  "store_info": {
+    "description": "Nikon cameras and lenses",
+    "hero_image": {
+      "link": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/4/AmazonStores/ATVPDKIKX0DER/a032acc8dd62bddc88e5426204dfb6e0.w3000.h600._CR0%2C0%2C3000%2C600_SX1500_.jpg"
+    }
+  },
+  "store_results": [
+    {
+      "asin": "B0B527JD1C",
+      "type": "editorial",
+      "link": "https://www.amazon.com/Nikon-1737-Z-30-Body/dp/B0B527JD1C?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/b43a958e7ab2e76578b7b2c9c3e86ed7.w3000.h1500._CR0%2C0%2C3000%2C1500_SX1500_.jpg",
+      "position": 1
+    },
+    {
+      "asin": "B09KHC4XCT",
+      "type": "editorial",
+      "link": "https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-Body/dp/B09KHC4XCT?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/1/AmazonStores/ATVPDKIKX0DER/88b96325c7042205245a4cc0f9de7d6c.w3000.h1500._CR0%2C0%2C3000%2C1500_SX1500_.jpg",
+      "position": 2
+    },
+    {
+      "asin": "B08L5Z4355",
+      "type": "editorial",
+      "link": "https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-Black/dp/B08L5Z4355?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/a/AmazonStores/ATVPDKIKX0DER/73353028ef02e4af0672e24a8b4582dc.w3000.h1500._CR0%2C0%2C3000%2C1500_SX1500_.jpg",
+      "position": 3
+    },
+    {
+      "asin": "B08L614R6K",
+      "type": "editorial",
+      "link": "https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-Black/dp/B08L614R6K?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/4dc932a6784a75ac2463e81b8df16845.w3000.h1500._CR0%2C0%2C3000%2C1500_SX1500_.jpg",
+      "position": 4
+    },
+    {
+      "asin": "B08DCJNTBX",
+      "type": "editorial",
+      "link": "https://www.amazon.com/Nikon-1649-Camera-Body-Black/dp/B08DCJNTBX?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/d/AmazonStores/ATVPDKIKX0DER/87b28cb01b580ab4e09de3502db45948.w1500.h1500._CR0%2C0%2C1500%2C1500_SX750_SY750_.jpg",
+      "position": 5
+    },
+    {
+      "asin": "B07YX8Q62H",
+      "type": "editorial",
+      "link": "https://www.amazon.com/DX-format-Mirrorless-Camera-16-50mm-3-5-6-3/dp/B07YX8Q62H?ref_=ast_sto_dp",
+      "editorial_image": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/c/AmazonStores/ATVPDKIKX0DER/53836d4e1a9a9b80a20013589bc66309.w1500.h1500._CR0%2C0%2C1500%2C1500_SX750_SY750_.jpg",
+      "position": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Home",
+      "link": "https://www.amazon.com/stores/page/A0A04D76-D946-42B4-A00A-7B9D20E8B166",
+      "is_current": true
+    },
+    {
+      "name": "Hot Deals!",
+      "link": "https://www.amazon.com/stores/page/E1F4A204-F618-433E-9AB8-1D4D19953E31",
+      "is_current": false
+    },
+    {
+      "name": "Z Series Mirrorless Cameras",
+      "link": "https://www.amazon.com/stores/page/F8984D72-D0C3-40B3-AA68-033BE7AA26EA",
+      "is_current": false
+    },
+    {
+      "name": "NIKKOR Z Lenses",
+      "link": "https://www.amazon.com/stores/page/246F46C2-8A2F-4514-8286-7A748793AC04",
+      "is_current": false
+    },
+    {
+      "name": "DSLR Cameras",
+      "link": "https://www.amazon.com/stores/page/C82592E9-BB41-4ECE-853F-6A4A0157B19F",
+      "is_current": false
+    },
+    {
+      "name": "DSLR Lenses",
+      "link": "https://www.amazon.com/stores/page/B4B8295E-E544-433F-9B7B-6A3B0C0AE5A8",
+      "is_current": false
+    },
+    {
+      "name": "Point & Shoot Cameras",
+      "link": "https://www.amazon.com/stores/page/BC2A2FB7-B39F-4C38-9040-772145EB4259",
+      "is_current": false
+    },
+    {
+      "name": "Camera Accessories",
+      "link": "https://www.amazon.com/stores/page/9730544D-437C-4B64-806C-20ACEB4A8E82",
+      "is_current": false
+    },
+    {
+      "name": "Binoculars",
+      "link": "https://www.amazon.com/stores/page/684321A8-6F99-4EF3-B3F5-135419F63313",
+      "is_current": false
+    },
+    {
+      "name": "Rangefinders",
+      "link": "https://www.amazon.com/stores/page/74E2AD7D-32F5-48E2-A32F-E11D402DFA72",
+      "is_current": false
+    },
+    {
+      "name": "Fieldscopes",
+      "link": "https://www.amazon.com/stores/page/CFD33923-DB4A-475A-86CB-3C050EC57F24",
+      "is_current": false
+    },
+    {
+      "name": "Posts",
+      "link": "https://www.amazon.com/stores/page/A0A04D76-D946-42B4-A00A-7B9D20E8B166/feed",
+      "is_current": false
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

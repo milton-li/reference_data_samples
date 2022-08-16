@@ -1,0 +1,1356 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 24,
+    "credits_remaining": 76,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B08L5Z4355",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-08-16T17:42:16.051Z",
+    "processed_at": "2022-08-16T17:42:33.049Z",
+    "total_time_taken": 17,
+    "amazon_url": "https://www.amazon.com/dp/B08L5Z4355?th=1&psc=1"
+  },
+  "product": {
+    "title": "Nikon Z 6II FX-Format Mirrorless Camera Body Black Body FX Mirrorless Camera",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "title_excluding_variant_name": "Nikon Z 6II FX-Format Mirrorless Camera Body Black",
+    "keywords": "Nikon,Z,6II,FX-Format,Mirrorless,Camera,Body,Black",
+    "keywords_list": [
+      "Nikon",
+      "FX-Format",
+      "Mirrorless",
+      "Camera",
+      "Body",
+      "Black"
+    ],
+    "asin": "B08L5Z4355",
+    "parent_asin": "B08L7DYB2P",
+    "link": "https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-Black/dp/B08L5Z4355",
+    "brand": "Nikon",
+    "protection_plans": [
+      {
+        "asin": "B07P97V4TH",
+        "title": "3-Year Protection",
+        "price": {
+          "symbol": "$",
+          "value": 133.99,
+          "currency": "USD",
+          "raw": "$133.99"
+        }
+      },
+      {
+        "asin": "B08F7ZFNH4",
+        "title": "2 Year Camera Accident Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Multiple Device Monthly Protection (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "add_an_accessory": [
+      {
+        "asin": "B07QZB1PMQ",
+        "title": "Adobe Creative Cloud Photography plan 1-month Subscription",
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "asin": "B07Q3SPSZ2",
+        "title": "Adobe Creative Cloud Entire collection 1-month Subscription",
+        "price": {
+          "symbol": "$",
+          "value": 79.49,
+          "currency": "USD",
+          "raw": "$79.49"
+        }
+      },
+      {
+        "asin": "B07Q4QYCPS",
+        "title": "Adobe Photoshop 1-month Subscription",
+        "price": {
+          "symbol": "$",
+          "value": 31.49,
+          "currency": "USD",
+          "raw": "$31.49"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B08L5ZGKCZ",
+        "title": "w/ NIKKOR Z 24-70mm f/4 S FX Mirrorless camera body",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08L5ZGKCZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Configuration",
+            "value": "w/ NIKKOR Z 24-70mm f/4 S"
+          },
+          {
+            "name": "Style",
+            "value": "FX Mirrorless camera body"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91rYykQZ7yL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91rYykQZ7yL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/91oUeawTcsL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/81hj59G6wkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/81CSWdv0mAL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91j-9iQLRZL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/813iD4MSn4L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81AZ0h3+DqL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81gyVEsv6qL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/710OGFo6vkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/710sQWktdyL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81DouoVEixL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71HzA2E6FZL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/81pNlqiK3wL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/91z7JT6H0-L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/713-6MyztlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/819UzVj+qLL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT13",
+            "link": "https://m.media-amazon.com/images/I/81wT+xqHMjL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT14",
+            "link": "https://m.media-amazon.com/images/I/81m55A+2nML._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT15",
+            "link": "https://m.media-amazon.com/images/I/91klInpZYYL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BOTT",
+            "link": "https://m.media-amazon.com/images/I/811f+0mIuFL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "TOPP",
+            "link": "https://m.media-amazon.com/images/I/81kCLhvLM4L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08L5Z4355",
+        "title": "Body FX Mirrorless Camera",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B08L5Z4355?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Configuration",
+            "value": "Body"
+          },
+          {
+            "name": "Style",
+            "value": "FX Mirrorless Camera"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91tNnBGol-L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91tNnBGol-L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/91q5zE1N49L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/81HgGLxyJrL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/81CSWdv0mAL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91j-9iQLRZL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/813iD4MSn4L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81AZ0h3+DqL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81gyVEsv6qL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/710OGFo6vkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/710sQWktdyL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81DouoVEixL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71HzA2E6FZL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/81pNlqiK3wL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/91z7JT6H0-L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/713-6MyztlL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/819UzVj+qLL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT13",
+            "link": "https://m.media-amazon.com/images/I/81wT+xqHMjL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT14",
+            "link": "https://m.media-amazon.com/images/I/81m55A+2nML._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT15",
+            "link": "https://m.media-amazon.com/images/I/91klInpZYYL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BOTT",
+            "link": "https://m.media-amazon.com/images/I/81GiTLHrRwL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "TOPP",
+            "link": "https://m.media-amazon.com/images/I/81kRSi1TNCL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09Q8GD6RW",
+        "title": "Z 611 w/ FTZ II Mount",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09Q8GD6RW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Configuration",
+            "value": "Z 611"
+          },
+          {
+            "name": "Style",
+            "value": "w/ FTZ II Mount"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51BFYAkfPnL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51BFYAkfPnL._AC_SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09Q8Z3FRG",
+        "title": "Z 611 with Nikkor 24-70mm with FTZ II Mount",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09Q8Z3FRG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Configuration",
+            "value": "Z 611 with Nikkor 24-70mm"
+          },
+          {
+            "name": "Style",
+            "value": "with FTZ II Mount"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Lm-b3tikL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Lm-b3tikL._AC_SL1001_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B08L5ZGKCZ,B08L5Z4355,B09Q8GD6RW,B09Q8Z3FRG",
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Camera & Photo",
+        "link": "https://www.amazon.com/Camera-Photo-Film-Canon-Sony/b/ref=dp_bc_aui_C_2?ie=UTF8&node=502394",
+        "category_id": "502394"
+      },
+      {
+        "name": "Digital Cameras",
+        "link": "https://www.amazon.com/Digital-Cameras/b/ref=dp_bc_aui_C_3?ie=UTF8&node=281052",
+        "category_id": "281052"
+      },
+      {
+        "name": "Mirrorless Cameras",
+        "link": "https://www.amazon.com/Mirrorless-Cameras/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3109924011",
+        "category_id": "3109924011"
+      }
+    ],
+    "categories_flat": "Electronics > Camera & Photo > Digital Cameras > Mirrorless Cameras",
+    "description": "'Do it all with this versatile full frame mirrorless hybrid that excels in speed, image quality and video performance. Everything a hybrid still and video mirrorless camera is meant to be. High-speed shooting with the buffer capacity to match. 4K Ultra HD video at 60p. 273-point Hybrid AF system with more options. Outstanding low-light capabilities. Dual processors. Dual card slots. Wireless connectivity with smartphones and laptops. Tons of creative features and that’s just the beginning.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the Nikon Store",
+      "link": "https://www.amazon.com/stores/Nikon/page/A0A04D76-D946-42B4-A00A-7B9D20E8B166?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "in Mirrorless Cameras by Nikon"
+    },
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 88,
+        "count": 283
+      },
+      "four_star": {
+        "percentage": 7,
+        "count": 22
+      },
+      "three_star": {
+        "percentage": 1,
+        "count": 3
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 6
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 6
+      }
+    },
+    "ratings_total": 322,
+    "reviews_total": 322,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/91tNnBGol-L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/91tNnBGol-L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91q5zE1N49L._AC_SL1500_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81HgGLxyJrL._AC_SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81CSWdv0mAL._AC_SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91j-9iQLRZL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/813iD4MSn4L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81AZ0h3+DqL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81gyVEsv6qL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710OGFo6vkL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710sQWktdyL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81DouoVEixL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71HzA2E6FZL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81pNlqiK3wL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91z7JT6H0-L._AC_SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/713-6MyztlL._AC_SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/819UzVj+qLL._AC_SL1500_.jpg",
+        "variant": "PT12"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81wT+xqHMjL._AC_SL1500_.jpg",
+        "variant": "PT13"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81m55A+2nML._AC_SL1500_.jpg",
+        "variant": "PT14"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91klInpZYYL._AC_SL1500_.jpg",
+        "variant": "PT15"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81GiTLHrRwL._AC_SL1500_.jpg",
+        "variant": "BOTT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81kRSi1TNCL._AC_SL1500_.jpg",
+        "variant": "TOPP"
+      }
+    ],
+    "images_count": 21,
+    "images_flat": "https://m.media-amazon.com/images/I/91tNnBGol-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91q5zE1N49L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81HgGLxyJrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81CSWdv0mAL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91j-9iQLRZL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/813iD4MSn4L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81AZ0h3+DqL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81gyVEsv6qL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710OGFo6vkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710sQWktdyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81DouoVEixL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71HzA2E6FZL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81pNlqiK3wL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91z7JT6H0-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/713-6MyztlL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/819UzVj+qLL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81wT+xqHMjL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81m55A+2nML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91klInpZYYL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81GiTLHrRwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81kRSi1TNCL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 118,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c34d5a8-4229-4ac5-8306-a46cf7aec185/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51iQtgfqkmL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Shot completely on the Nikon Z system"
+      },
+      {
+        "duration_seconds": 181,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/69daf98d-caab-4681-b133-624dbc546cf4/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51XVszPZMLL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "New Z6 II Video"
+      },
+      {
+        "duration_seconds": 107,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fef64ac-f4db-49f4-ab3f-48cf7a717f20/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51fJzTxxleL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Roller Skating filmed by Z6 II"
+      },
+      {
+        "duration_seconds": 72,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdbb3cb2-f576-4247-92a3-a4f6b4cbef7a/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51CN1B-j4TL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Colours Shot with the Nikon Z 6II in N-Log"
+      },
+      {
+        "duration_seconds": 251,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/234b4452-588e-4b7e-99c7-27e1c5f01277/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51iVLcN+JqL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Behind the Scenes with the Nikon Z6 II by Chris Hershman"
+      },
+      {
+        "duration_seconds": 734,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7f95c7e-27f2-46af-bf7a-2477019ed125/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71MSYZ+q0eL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Nikon Z6II is Amazing, but is it Good Enough? Hands-on Review"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c34d5a8-4229-4ac5-8306-a46cf7aec185/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/69daf98d-caab-4681-b133-624dbc546cf4/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fef64ac-f4db-49f4-ab3f-48cf7a717f20/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdbb3cb2-f576-4247-92a3-a4f6b4cbef7a/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/234b4452-588e-4b7e-99c7-27e1c5f01277/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7f95c7e-27f2-46af-bf7a-2477019ed125/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Mirrorless versatility on a whole new level. 24.5MP BSI resolution that excels in low light. 14 FPS suitable for fast action. 4K UHD Video performance at its best.",
+      "Full frame. Full pixel readout. Full featured 4K UHD Video. Top of the line video performance with 4K UHD 60p using full pixel readout and a host of outstanding features for serious videographers. Subject acquisition with speed and precision. 3.5x more buffer capacity than the original Z 6. Faster continuous shooting. Improved AF performance and functionality.",
+      "Dual card slots (CFexpress/XQD plus UHS-II SD). Flexibility and peace of mind when shooting important moments or on assignment, such as wedding and event photography. Comfortable. Durable. Intuitive. Z 6II’s exterior and interior have been thoughtfully designed to be handled and used with max comfort and ease of operation.",
+      "Vertical Grip Ready. Now compatible with the new vertical battery grip for those in need of more power and easier shutter operation when shooting vertically. USB-C constant power and charging. Never run low on power during livestreams, video shoots and timelapses.",
+      "One mount accepts them all. Compatible with a growing line of NIKKOR Z lenses as well as approx. 360 F-mount NIKKOR lenses with FTZ mount adapter (sold separately).",
+      "Optical Zoom : 1.0 Multiplier x",
+      "Video Capture Resolution : 2160p"
+    ],
+    "feature_bullets_count": 7,
+    "feature_bullets_flat": "Video Capture Resolution : 2160p. Optical Zoom : 1.0 Multiplier x. One mount accepts them all. Compatible with a growing line of NIKKOR Z lenses as well as approx. 360 F-mount NIKKOR lenses with FTZ mount adapter (sold separately). Vertical Grip Ready. Now compatible with the new vertical battery grip for those in need of more power and easier shutter operation when shooting vertically. USB-C constant power and charging. Never run low on power during livestreams, video shoots and timelapses. Dual card slots (CFexpress/XQD plus UHS-II SD). Flexibility and peace of mind when shooting important moments or on assignment, such as wedding and event photography. Comfortable. Durable. Intuitive. Z 6II’s exterior and interior have been thoughtfully designed to be handled and used with max comfort and ease of operation. Full frame. Full pixel readout. Full featured 4K UHD Video. Top of the line video performance with 4K UHD 60p using full pixel readout and a host of outstanding features for serious videographers. Subject acquisition with speed and precision. 3.5x more buffer capacity than the original Z 6. Faster continuous shooting. Improved AF performance and functionality. Mirrorless versatility on a whole new level. 24.5MP BSI resolution that excels in low light. 14 FPS suitable for fast action. 4K UHD Video performance at its best.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Nikon"
+      },
+      {
+        "name": "Model Name",
+        "value": "Z 6II FX-format Mirrorless Camera Body"
+      },
+      {
+        "name": "Form Factor",
+        "value": "Mirrorless"
+      },
+      {
+        "name": "Effective Still Resolution",
+        "value": "24.5 MP"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Dual EXPEED 6 Image Processors; 273-Point Phase-Detect AF System; Vibration Reduction"
+      },
+      {
+        "name": "Optical Zoom",
+        "value": "1 x"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "Bluetooth, Wi-Fi, USB, HDMI, GPS"
+      },
+      {
+        "name": "Screen Size",
+        "value": "3.2 Inches"
+      },
+      {
+        "name": "Photo Sensor Size",
+        "value": "Full Frame (35mm)"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R3R96WPNRW3ARJ",
+        "title": "A Complete Nikon Mirrorless Camera",
+        "body": "The Nikon Z6 was and still is a great camera, but has been heavily derided by reviewers on the 'Tube. Some of the criticisms were unjustified, while others had some merit. The Z6 II fills in any of the gaps that caused these criticisms.  The TLDR of this camera is that its a refined Z6. Nikon listened and updated the Z6 in every was that was necessary.  Still, the reviewers will hold this up against the Sonys and the Canons, but Nikon's target audience is not people switching camera systems. Instead, Nikon's audience is its own current DSLR consumer base who may want to go mirrorless.  The theme for the Z6 II (note that Nikon does not call it a \"Mark II\") is two of everything.  Internally, this camera is faster and has a larger buffer, due to the inclusion of a second processor.  Continuous High shooting speed has increased by two frames per second from 12 to 14.  There are now two card slots (1 XQD/CFExpress Type B and a USH-II SD card). I wish there were two of the same cards for convenience. The Z5 has two SD card slots if you prefer that.  The Z6 II supports a vertical battery grip with buttons for taking photos in portrait orientation. So now there are two sets of buttons, with the optional grip.  It has the same sensor as the Z6, so no changes there.  Currently as of this writing (November 15, 2020), none of the major photo editing software packages have been updated to support the .NEF raw files it produces. This is normal for newly released cameras, and the updates should be coming soon. In the meantime, you can shoot raw and jpeg so you can edit the raw files later. Alternatively, you can use Nikon's Capture NX software.  My firmware is 1.00. Firmware updates will make it even better (like the video updates coming in February 2021).  It uses the en-el15c battery, but accepts the older en-el15 and en-el15b batteries.  I think the greatest improvement so far is the wide area eye detection, where you can enable a red box in the viewfinder that restricts the eye detection to only eyes inside the red box. This way, you are giving the camera a helping hand as to where you want it to look for eyes. This is a rather unique approach that I don't believe any other camera system supports.  Overall, the Z6 II feels familiar more than it feels different. In fact, if you have a Z6, you may not need to upgrade to the Z6 II, depending on your needs. If you are a still life, street, or portrait photographer, your Z6 is still a great camera. Pros and wedding photographers (business owners) will probably want to upgrade though for the autofocus, dual card slots, and speed improvements. If you shoot fast action or wildlife, I think this is a great upgrade for you due to the speed improvements.  This is the complete camera from Nikon. Nikon has given everyone what they wanted in the Z6 II.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Nikon Z6 was and still is a great camera, but has been heavily derided by reviewers on the 'Tube. Some of the criticisms were unjustified, while others had some merit. The Z6 II fills in any of the gaps that caused these criticisms.<br><br>The TLDR of this camera is that its a refined Z6. Nikon listened and updated the Z6 in every was that was necessary.<br><br>Still, the reviewers will hold this up against the Sonys and the Canons, but Nikon's target audience is not people switching camera systems. Instead, Nikon's audience is its own current DSLR consumer base who may want to go mirrorless.<br><br>The theme for the Z6 II (note that Nikon does not call it a \"Mark II\") is two of everything.<br><br>Internally, this camera is faster and has a larger buffer, due to the inclusion of a second processor.<br><br>Continuous High shooting speed has increased by two frames per second from 12 to 14.<br><br>There are now two card slots (1 XQD/CFExpress Type B and a USH-II SD card). I wish there were two of the same cards for convenience. The Z5 has two SD card slots if you prefer that.<br><br>The Z6 II supports a vertical battery grip with buttons for taking photos in portrait orientation. So now there are two sets of buttons, with the optional grip.<br><br>It has the same sensor as the Z6, so no changes there.<br><br>Currently as of this writing (November 15, 2020), none of the major photo editing software packages have been updated to support the .NEF raw files it produces. This is normal for newly released cameras, and the updates should be coming soon. In the meantime, you can shoot raw and jpeg so you can edit the raw files later. Alternatively, you can use Nikon's Capture NX software.<br><br>My firmware is 1.00. Firmware updates will make it even better (like the video updates coming in February 2021).<br><br>It uses the en-el15c battery, but accepts the older en-el15 and en-el15b batteries.<br><br>I think the greatest improvement so far is the wide area eye detection, where you can enable a red box in the viewfinder that restricts the eye detection to only eyes inside the red box. This way, you are giving the camera a helping hand as to where you want it to look for eyes. This is a rather unique approach that I don't believe any other camera system supports.<br><br>Overall, the Z6 II feels familiar more than it feels different. In fact, if you have a Z6, you may not need to upgrade to the Z6 II, depending on your needs. If you are a still life, street, or portrait photographer, your Z6 is still a great camera. Pros and wedding photographers (business owners) will probably want to upgrade though for the autofocus, dual card slots, and speed improvements. If you shoot fast action or wildlife, I think this is a great upgrade for you due to the speed improvements.<br><br>This is the complete camera from Nikon. Nikon has given everyone what they wanted in the Z6 II.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3R96WPNRW3ARJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5Z4355",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 15, 2020",
+          "utc": "2020-11-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jerry Palmerino",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHL3R5T5CBXKOFV74ODDPJLNQYIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHL3R5T5CBXKOFV74ODDPJLNQYIA",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/c5e68ed6-ea88-4e87-a948-60164a7857bb._CR0,0,108,108_UX110_.jpg"
+        },
+        "vine_program": true,
+        "vine_program_free_product": false,
+        "verified_purchase": true,
+        "helpful_votes": 134,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R37BPTVEVV0VIM",
+        "title": "Nikon Mirrorless is officially ready for prime time",
+        "body": "As a long time DSLR user, I finally decided to make the jump from D750 to Z6ii, and I couldn’t be more thrilled. Don’t listen to the big career Youtubers with click bait titles who dog on Nikon AF. It’s incredible and in many ways a lot more capable than DSLR systems. Even the eye AF works extremely well.  The biggest upgrade for me was the ability to rely on live view AF especially when shooting video. Game changer for sure.  I can’t compare to canon or Sony directly, but I’ll say this: if you like your Nikon lenses and the Nikon ecosystem in general, do not feel pressure to to switch brands just because a spec sheet across the aisle looks a little better in certain places. Z6ii doesn’t disappoint especially as a true hybrid still / video shooter. I now feel totally equipped to produce state of the art content.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>As a long time DSLR user, I finally decided to make the jump from D750 to Z6ii, and I couldn’t be more thrilled. Don’t listen to the big career Youtubers with click bait titles who dog on Nikon AF. It’s incredible and in many ways a lot more capable than DSLR systems. Even the eye AF works extremely well.<br><br>The biggest upgrade for me was the ability to rely on live view AF especially when shooting video. Game changer for sure.<br><br>I can’t compare to canon or Sony directly, but I’ll say this: if you like your Nikon lenses and the Nikon ecosystem in general, do not feel pressure to to switch brands just because a spec sheet across the aisle looks a little better in certain places. Z6ii doesn’t disappoint especially as a true hybrid still / video shooter. I now feel totally equipped to produce state of the art content.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R37BPTVEVV0VIM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5Z4355",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 14, 2021",
+          "utc": "2021-01-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kevin G",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGANRMRHWNFVQBKNMMPIPB642TCA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGANRMRHWNFVQBKNMMPIPB642TCA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 74,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1GPVNIV958U92",
+        "title": "Expensive but worth it.",
+        "body": "I originally bought the GH5 and that camera is a ridiculously good workhorse. However, I shoot predominately consumer electronics, which means I shoot a lot of screens. The GH5, for all its greatness, doesn't have an anti-aliasing filter and that caused all kinds of ridiculous moire. So I sold it, did some research, and landed on the Nikon Z6 II. Super glad I did.  For the record, I upgraded originally from the Nikon D5200, which I used with my trusty Sigma 17-50mm lens for many years. I used the GH5 for a month before I got this camera, which I've now had for about a week.  Pros 1. Good, sharp photos (obviously lens dependent). I did most of my testing with the included Nikon 24-70mm F/4 and my old Sigma 17-50mm F/2.8 with the FTZ adapter. You can find way better photos by much better photographers on pro reviews or other Amazon reviews, but rest assured those reviewers are right. This camera takes excellent photos. 2. The auto-focus features are a bit outside of my wheelhouse (my subjects rarely move while I shoot them), but I did mess around a little bit. I don't know how it compares to its contemporaries, but it beats my old Nikon D5200 by margins I can't possibly overstate. 3. 4k60fps recording works perfectly. Mine came in the box with the software update already installed so I assume yours will too. I didn't have to do anything other than turn it on in the settings. Even with the crop, it's smooth, sharp, and easy to work with. 4. I've always liked Nikon's menu system. It's simple, easy, and effective. Coming from a previous Nikon, the menu is larger, with controls for modern features, but it's more or less the same layout as previous cameras, so it's familiar. 5. The ability to charge the battery in camera via USB-C is awesome. The ability to power the camera with one is even cooler. 6. I also like that I can connect the camera in a bunch of different ways (wifi, bluetooth, usb-c). Compared to old cameras, it's a massive difference. 7. The ability to have a clean HDMI-out and the ability to turn off sleep mode makes this a great webcam for streaming or similar use cases.  Neutral 1. I appreciate that there are two card slots, but I'm not too keen on buying a new card type and a new adapter for my computer.  Cons 1. Nikon is intentionally vague about the USB-C power stuff. They want you to buy a $60 wall charger with a USB-C end. However, you basically just need a 15W power brick with USB Power Delivery (USB PD) and it'll get the job done, and you can find those on Amazon for vastly less money. 2. Having the play and delete buttons on the left side makes the camera difficult to use one-handed. Not the biggest deal, but ergonomics matter.  Finally, a word about OLPF or an \"anti-aliasing filter\". This is an electronic component that, to over-simplify, knocks things ever so slightly out of focus to help avoid moire. It's a technology that does work wonders, especially if you shoot a lot of video or photo of things with screens, like smartphones, computer screens, etc. The Nikon Z6 II has one (the Z7 II does not). If you're here and you're considering a career in tech vlogging/journalism, I would put this toward the top of your \"maybe\" list for that reason alone. Sharp photos and video with the filter is a difficult combo to find.  Overall, this camera is bonkers good. When I asked about it on Reddit, someone there challenged me to find a negative review. Turns out, negative reviews of this camera are exceedingly rare. It does well in low light, regular light, and intense light. The controls are good, the ergonomics are mostly good, the video capture is great, and it's just an all-around powerful workhorse camera.  I also tried the kit lens. It's nice and sharp, and I actually like the part where the barrel compacts and locks for travel. I'll likely use it most of the time since it's a tad sharper than my Sigma, but if the lighting gets difficult, I have no problem switching back to the f/2.8. The kit lens is really good, and getting it at a $400 discount with the bundle is a smart idea unless you already have an outstanding zoom lens, in which case getting a second is redundant.  Finally, a recommendation. If you buy this camera, at MINIMUM, you should consider getting the combo with the FTZ adapter. That gives you access to many older Nikon F-Mount lenses, since the Z-Mount is still kind of new. Buying the adapter separate costs $250, but Nikon reduces the price to $99 if you buy it when you buy a Z-mount camera (Z50, Z5, Z6, Z7, Z6 II, Z7 II, etc). The deal is available straight from Nikon, here on Amazon, or virtually anywhere else you can buy the camera. It functionally triples the number of lenses you can buy (including some really decent cheaper options, like the Sigma 17-50mm f/2.8).  Anyway, this camera is fantastic. Most of the other reviews touch on the kit lens and camera image/video quality, so I wanted to focus mine on some of the technicals and niche stuff. This camera is excellent. I'm happy to have it.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I originally bought the GH5 and that camera is a ridiculously good workhorse. However, I shoot predominately consumer electronics, which means I shoot a lot of screens. The GH5, for all its greatness, doesn't have an anti-aliasing filter and that caused all kinds of ridiculous moire. So I sold it, did some research, and landed on the Nikon Z6 II. Super glad I did.<br><br>For the record, I upgraded originally from the Nikon D5200, which I used with my trusty Sigma 17-50mm lens for many years. I used the GH5 for a month before I got this camera, which I've now had for about a week.<br><br>Pros<br>1. Good, sharp photos (obviously lens dependent). I did most of my testing with the included Nikon 24-70mm F/4 and my old Sigma 17-50mm F/2.8 with the FTZ adapter. You can find way better photos by much better photographers on pro reviews or other Amazon reviews, but rest assured those reviewers are right. This camera takes excellent photos.<br>2. The auto-focus features are a bit outside of my wheelhouse (my subjects rarely move while I shoot them), but I did mess around a little bit. I don't know how it compares to its contemporaries, but it beats my old Nikon D5200 by margins I can't possibly overstate.<br>3. 4k60fps recording works perfectly. Mine came in the box with the software update already installed so I assume yours will too. I didn't have to do anything other than turn it on in the settings. Even with the crop, it's smooth, sharp, and easy to work with.<br>4. I've always liked Nikon's menu system. It's simple, easy, and effective. Coming from a previous Nikon, the menu is larger, with controls for modern features, but it's more or less the same layout as previous cameras, so it's familiar.<br>5. The ability to charge the battery in camera via USB-C is awesome. The ability to power the camera with one is even cooler.<br>6. I also like that I can connect the camera in a bunch of different ways (wifi, bluetooth, usb-c). Compared to old cameras, it's a massive difference.<br>7. The ability to have a clean HDMI-out and the ability to turn off sleep mode makes this a great webcam for streaming or similar use cases.<br><br>Neutral<br>1. I appreciate that there are two card slots, but I'm not too keen on buying a new card type and a new adapter for my computer.<br><br>Cons<br>1. Nikon is intentionally vague about the USB-C power stuff. They want you to buy a $60 wall charger with a USB-C end. However, you basically just need a 15W power brick with USB Power Delivery (USB PD) and it'll get the job done, and you can find those on Amazon for vastly less money.<br>2. Having the play and delete buttons on the left side makes the camera difficult to use one-handed. Not the biggest deal, but ergonomics matter.<br><br>Finally, a word about OLPF or an \"anti-aliasing filter\". This is an electronic component that, to over-simplify, knocks things ever so slightly out of focus to help avoid moire. It's a technology that does work wonders, especially if you shoot a lot of video or photo of things with screens, like smartphones, computer screens, etc. The Nikon Z6 II has one (the Z7 II does not). If you're here and you're considering a career in tech vlogging/journalism, I would put this toward the top of your \"maybe\" list for that reason alone. Sharp photos and video with the filter is a difficult combo to find.<br><br>Overall, this camera is bonkers good. When I asked about it on Reddit, someone there challenged me to find a negative review. Turns out, negative reviews of this camera are exceedingly rare. It does well in low light, regular light, and intense light. The controls are good, the ergonomics are mostly good, the video capture is great, and it's just an all-around powerful workhorse camera.<br><br>I also tried the kit lens. It's nice and sharp, and I actually like the part where the barrel compacts and locks for travel. I'll likely use it most of the time since it's a tad sharper than my Sigma, but if the lighting gets difficult, I have no problem switching back to the f/2.8. The kit lens is really good, and getting it at a $400 discount with the bundle is a smart idea unless you already have an outstanding zoom lens, in which case getting a second is redundant.<br><br>Finally, a recommendation. If you buy this camera, at MINIMUM, you should consider getting the combo with the FTZ adapter. That gives you access to many older Nikon F-Mount lenses, since the Z-Mount is still kind of new. Buying the adapter separate costs $250, but Nikon reduces the price to $99 if you buy it when you buy a Z-mount camera (Z50, Z5, Z6, Z7, Z6 II, Z7 II, etc). The deal is available straight from Nikon, here on Amazon, or virtually anywhere else you can buy the camera. It functionally triples the number of lenses you can buy (including some really decent cheaper options, like the Sigma 17-50mm f/2.8).<br><br>Anyway, this camera is fantastic. Most of the other reviews touch on the kit lens and camera image/video quality, so I wanted to focus mine on some of the technicals and niche stuff. This camera is excellent. I'm happy to have it.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1GPVNIV958U92/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5Z4355",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 20, 2021",
+          "utc": "2021-06-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "J. F. Hindy",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHTRLPO6Q7FNLBNB5SQSDPLC6I3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHTRLPO6Q7FNLBNB5SQSDPLC6I3A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 26,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3D63RY0KEZ0K8",
+        "title": "Gama Profesional",
+        "body": "La mejor cámara de formato completo Mirrorless.  Pros: Enfoque muy rápido hasta con poca luz, doble procesador, mayor número de fps, muy buena para video, agarre excelente y cómodo, una cámara para hacer cosas profesionales. Ahora con doble ranura una Sd y otra para CFexpress  Contras: Cada vez hay más lentes para la montura Z pero se necesitan más fabricantes como sigma y Tamron. El precio si es algo elevado por solamente el cuerpo. La batería dura un poco más pero no Como una reflex.  Conclusiones: Si necesitas una cámara que cubra fotografía y video de más alto de nivel que el de entrada esta Z6ii no te hará dudar, pero si tendrás qué gastar algo más por sus ópticas originales pero de excelente calidad.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La mejor cámara de formato completo Mirrorless.<br><br>Pros:<br>Enfoque muy rápido hasta con poca luz, doble procesador, mayor número de fps, muy buena para video, agarre excelente y cómodo, una cámara para hacer cosas profesionales. Ahora con doble ranura una Sd y otra para CFexpress<br><br>Contras:<br>Cada vez hay más lentes para la montura Z pero se necesitan más fabricantes como sigma y Tamron.<br>El precio si es algo elevado por solamente el cuerpo.<br>La batería dura un poco más pero no<br>Como una reflex.<br><br>Conclusiones:<br>Si necesitas una cámara que cubra fotografía y video de más alto de nivel que el de entrada esta Z6ii no te hará dudar, pero si tendrás qué gastar algo más por sus ópticas originales pero de excelente calidad.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on August 11, 2022",
+          "utc": "2022-08-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Carlos Ortiz",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/6bbd8532-4fe1-46df-971e-3bb2c66256bb._CR0,0.0,333,333_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R1AN3HWTARJ9VB",
+        "title": "Un monstruo para fotografía exterior y en ambientes extremos",
+        "body": "Impresionante, simplemente un monstruo de camara con capacidades weatherproof innigualables, mecanicamente/electronicamente de un rendimiento superior, hago fotografía de producto y outdoor y no deja de sorprenderme la versatilidad luminica y velocidad de respuesta (considerando que tiene doble procesador expeed6). La empezare a usar en fotografía social y actualizare mi reseñaRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Impresionante, simplemente un monstruo de camara con capacidades weatherproof innigualables, mecanicamente/electronicamente de un rendimiento superior, hago fotografía de producto y outdoor y no deja de sorprenderme la versatilidad luminica y velocidad de respuesta (considerando que tiene doble procesador expeed6). La empezare a usar en fotografía social y actualizare mi reseña</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on June 4, 2021",
+          "utc": "2021-06-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marco",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/16ae2df2-84bf-4fff-a388-ecc2d9528b35._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R33CGVNYWU686Z",
+        "title": "Excelente compra",
+        "body": "El enfoque es muy preciso, tiene enfoque automático híbrido, seguimiento del modelo, detección de ojos, etc.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">El enfoque es muy preciso, tiene enfoque automático híbrido, seguimiento del modelo, detección de ojos, etc.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on June 23, 2021",
+          "utc": "2021-06-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "fernando h"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R2M8OHN1J6E4F0",
+        "title": "Excelente camara",
+        "body": "Excelente camara mirrorles fullframe , llego en tiempo y en forma, excelente servicioRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente camara mirrorles fullframe , llego en tiempo y en forma, excelente servicio</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 3, 2022",
+          "utc": "2022-05-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "octavio l."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 22,
+        "hard_maximum": true
+      },
+      "offer_id": "32b8NSEo1AIJ6wlthA5fjGNEDATPy4vvDTS3V+2GeeS5EVgaG9i4sRlB8BVWrbmVSWaHfd0XNYRa+bVun3ZS8p5n2rDjcYwxnXnTLQijRVKlT7vS6aJB8OzTbqPnH1dCeaKPilsGe/ZXnW0xcfxp5w==",
+      "mixed_offers_count": 25,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping"
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Monday, August 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, August 18",
+          "name": "Or fastest delivery Thursday, August 18. Order within 11 hrs 17 mins"
+        },
+        "is_sold_by_amazon": true,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1996.95,
+        "currency": "USD",
+        "raw": "$1,996.95"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "$",
+          "value": 1996.95,
+          "currency": "USD",
+          "raw": "$1,996.95"
+        },
+        "seller_name": "Focus Camera LLC",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 1996.95,
+          "currency": "USD",
+          "raw": "$1,996.95"
+        },
+        "seller_name": "Murphy's Camera",
+        "free_shipping": true,
+        "position": 2
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 1996.95,
+          "currency": "USD",
+          "raw": "$1,996.95"
+        },
+        "seller_name": "17Photo, Electronics and Outdoors",
+        "free_shipping": true,
+        "position": 3
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "5.28 x 2.74 x 3.96 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.36 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B08L5Z4355"
+      },
+      {
+        "name": "Item model number",
+        "value": "1659"
+      },
+      {
+        "name": "Batteries",
+        "value": "1 Lithium Ion batteries required."
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8 out of 5 stars       322 ratings          4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#36,051 in Electronics"
+      },
+      {
+        "name": "Date First Available",
+        "value": "October 14, 2020"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Nikon"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "Thailand"
+      },
+      {
+        "name": "Brand",
+        "value": "Nikon"
+      },
+      {
+        "name": "Model Name",
+        "value": "Z 6II FX-format Mirrorless Camera Body"
+      },
+      {
+        "name": "Form Factor",
+        "value": "Mirrorless"
+      },
+      {
+        "name": "Effective Still Resolution",
+        "value": "24.5 MP"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Dual EXPEED 6 Image Processors; 273-Point Phase-Detect AF System; Vibration Reduction"
+      },
+      {
+        "name": "Optical Zoom",
+        "value": "1 x"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "Bluetooth, Wi-Fi, USB, HDMI, GPS"
+      },
+      {
+        "name": "Screen Size",
+        "value": "3.2 Inches"
+      },
+      {
+        "name": "Photo Sensor Size",
+        "value": "Full Frame"
+      }
+    ],
+    "specifications_flat": "Photo Sensor Size: Full Frame. Screen Size: 3.2 Inches. Connectivity Technology: Bluetooth, Wi-Fi, USB, HDMI, GPS. Color: Black. Optical Zoom: 1 x. Special Feature: Dual EXPEED 6 Image Processors; 273-Point Phase-Detect AF System; Vibration Reduction. Effective Still Resolution: 24.5 MP. Form Factor: Mirrorless. Model Name: Z 6II FX-format Mirrorless Camera Body. Brand: Nikon. Country of Origin: Thailand. Manufacturer: Nikon. Date First Available: October 14, 2020. Best Sellers Rank: #36,051 in Electronics. Customer Reviews: 4.8 out of 5 stars       322 ratings          4.8 out of 5 stars. Batteries: 1 Lithium Ion batteries required. Item model number: 1659. ASIN: B08L5Z4355. Item Weight: 1.36 pounds. Product Dimensions: 5.28 x 2.74 x 3.96 inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Electronics",
+        "rank": 36051,
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "Mirrorless Cameras",
+        "rank": 54,
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/3109924011/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "color": "Black",
+    "manufacturer": "Nikon",
+    "weight": "1.36 pounds",
+    "first_available": {
+      "raw": "October 14, 2020",
+      "utc": "2020-10-14T00:00:00.000Z"
+    },
+    "dimensions": "5.28 x 2.74 x 3.96 inches",
+    "model_number": "1659",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 36051, Category: Mirrorless Cameras | Rank: 54"
+  },
+  "brand_store": {
+    "id": "A0A04D76-D946-42B4-A00A-7B9D20E8B166",
+    "link": "https://www.amazon.com/stores/Nikon/page/A0A04D76-D946-42B4-A00A-7B9D20E8B166"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 2383.89,
+      "currency": "USD",
+      "raw": "$2,383.89"
+    },
+    "products": [
+      {
+        "asin": "B08L5Z4355",
+        "title": "Nikon Z6 Full Frame Mirrorless Camera Body",
+        "link": "https://www.amazon.com/dp/B08L5Z4355",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "asin": "B07GPJ1ZR3",
+        "title": "NIKON Mount Adapter FTZ for Adapting F-Mount Lenses to Nikon Z Mirrorless Cameras",
+        "link": "https://www.amazon.com/dp/B07GPJ1ZR3",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Oz3R8y7OL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 246.95,
+          "currency": "USD",
+          "raw": "$246.95"
+        }
+      },
+      {
+        "asin": "B085CNSZMC",
+        "title": "SanDisk 128GB Extreme PRO CFexpress Card Type B - SDCFE-128G-GN4NN",
+        "link": "https://www.amazon.com/dp/B085CNSZMC",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81t9s5XHsWL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 139.99,
+          "currency": "USD",
+          "raw": "$139.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B07N92DBR8",
+    "link": "https://www.amazon.com/dp/B07N92DBR8/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=7445dd29-a4a5-48dd-a259-dc4e645a706b&pf_rd_r=DQGDVTQPDBB4AB2DDBVP&pd_rd_wg=GFZBk&pd_rd_i=B07N92DBR8&pd_rd_w=lVewY&content-id=amzn1.sym.7445dd29-a4a5-48dd-a259-dc4e645a706b&pd_rd_r=8bbe9729-0266-487e-9731-9c1526c03537",
+    "title": "Nikon D3500 24.2MP DSLR Camera with AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Lens (1590B) – (Renewed)",
+    "rating": 4.5,
+    "ratings_total": 131,
+    "image": "https://m.media-amazon.com/images/I/61s8FKpmqML._SS100_.jpg",
+    "price": {
+      "symbol": "$",
+      "value": 629,
+      "currency": "USD",
+      "raw": "$629.00"
+    }
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B08L5Z4355",
+      "image": "https://m.media-amazon.com/images/I/91tNnBGol-L._AC_SS450_.jpg",
+      "title": "Nikon Z 6II FX-Format Mirrorless Camera Body Black",
+      "rating": 5,
+      "ratings_total": 322,
+      "link": "https://www.amazon.com/dp/B08L5Z4355"
+    },
+    {
+      "asin": "B07GPRSYG8",
+      "image": "https://m.media-amazon.com/images/I/61h9UPZ40TL._AC_SS450_.jpg",
+      "title": "Nikon Z6 Full Frame Mirrorless Camera Body",
+      "rating": 4.5,
+      "ratings_total": 172,
+      "link": "https://www.amazon.com/dp/B07GPRSYG8"
+    },
+    {
+      "asin": "B08L614R6K",
+      "image": "https://m.media-amazon.com/images/I/91xuGJ0NDML._AC_SS450_.jpg",
+      "title": "Nikon Z 7II FX-Format Mirrorless Camera Body Black",
+      "rating": 4.5,
+      "ratings_total": 121,
+      "link": "https://www.amazon.com/dp/B08L614R6K"
+    },
+    {
+      "asin": "B08DCJNTBX",
+      "image": "https://m.media-amazon.com/images/I/91QOsoaw2rL._AC_SS450_.jpg",
+      "title": "Nikon Z 5 Camera Body, Black",
+      "rating": 4.5,
+      "ratings_total": 245,
+      "link": "https://www.amazon.com/dp/B08DCJNTBX"
+    },
+    {
+      "asin": "B07GPH7M5X",
+      "image": "https://m.media-amazon.com/images/I/91UQAYF2zBL._AC_SS450_.jpg",
+      "title": "Nikon Z6 FX-Format Mirrorless Camera Body w/ NIKKOR Z 24-70mm f/4 S",
+      "rating": 4.5,
+      "ratings_total": 165,
+      "link": "https://www.amazon.com/dp/B07GPH7M5X"
+    },
+    {
+      "asin": "B07GPRBGQ2",
+      "image": "https://m.media-amazon.com/images/I/91s5RcaiQeL._AC_SS450_.jpg",
+      "title": "Nikon Z7 Full-Frame Mirrorless Interchangeable Lens Camera with 45.7MP Resolution, Body, Black, 1591",
+      "rating": 4.5,
+      "ratings_total": 133,
+      "link": "https://www.amazon.com/dp/B07GPRBGQ2"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Sony a7 III ILCE7M3/B Full-Frame Mirrorless Interchangeable-Lens Camera with 3-Inch LCD, Body Only,Base Configuration,Black",
+      "asin": "B07B43WPVK",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A09674931KUXLY9PQTB4T&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB07B43WPVK%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07B43WPVK%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41bXZBrRQFL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1822,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 1998,
+        "currency": "USD",
+        "raw": "$1,998.00"
+      }
+    },
+    {
+      "title": "Panasonic LUMIX S5 Full Frame Mirrorless Camera, 4K 60P Video Recording with Flip Screen & WiFi, LUMIX S 20-60mm F3.5-5.6 Lens, L-Mount, 5-Axis Dual I.S, DC-S5KK (Black)",
+      "asin": "B08FCYFL42",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A04743273J3BAUDU99EJB&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB08FCYFL42%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08FCYFL42%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/417Uj1tsLHL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 171,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 1997.99,
+        "currency": "USD",
+        "raw": "$1,997.99"
+      }
+    },
+    {
+      "title": "Nikon Z 6II 24.5MP Mirrorless Digital Camera (Body Only) (1659) USA Model Deluxe Bundle with High-Speed 64GB Extreme SD Card + Nikon Digital Camera Bag + Corel Editing Software + Much More",
+      "asin": "B092KG25LK",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A03129552BO8TKIWMNGO3&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB092KG25LK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB092KG25LK%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51fvPfxFxJL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "$",
+        "value": 2004.95,
+        "currency": "USD",
+        "raw": "$2,004.95"
+      }
+    },
+    {
+      "title": "Nikon Z 7II 45.7MP Mirrorless Digital Camera (Body Only) (1653) USA Model Deluxe Bundle with High-Speed 64GB Extreme SD Card + Nikon Digital Camera Bag + Corel Editing Software + Much More",
+      "asin": "B092KY6GCF",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A04194063P3PHIYG5WTV2&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB092KY6GCF%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB092KY6GCF%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/519lprjSViL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 2996.95,
+        "currency": "USD",
+        "raw": "$2,996.95"
+      }
+    },
+    {
+      "title": "Nikon Z 7II Mirrorless Digital Camera 45.7MP with 24-70mm f/4 Lens (1656) USA Model + 64GB XQD Card + Corel Photo Software Software + Case + Color Filter Kit + Telephoto Lens + More",
+      "asin": "B08RF1PQZV",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A06426011YSRML7SXE4Z4&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB08RF1PQZV%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08RF1PQZV%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51f0rslFOAL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 3914.95,
+        "currency": "USD",
+        "raw": "$3,914.95"
+      }
+    },
+    {
+      "title": "Nikon Z 7II 45.7MP Mirrorless Digital Camera (Body Only) (1653) USA Model Deluxe Bundle with 64GB XQD Memory Card + Nikon Digital Camera Bag + Corel Editing Software + Much More",
+      "asin": "B092KG8K2F",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A04195621VZYXIVCC2DGV&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB092KG8K2F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB092KG8K2F%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51jUxKyuSiL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 3024.95,
+        "currency": "USD",
+        "raw": "$3,024.95"
+      }
+    },
+    {
+      "title": "Nikon Z 7II Mirrorless Digital Camera 45.7MP (Body Only) (1653) USA Model + FTZ Mount + 64GB XQD Card + Corel Software Photo + Case + HDMI Cable + Card Reader + Cleaning Set + More",
+      "asin": "B0929KY529",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A05645433NX2FXHIG5ZNE&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB0929KY529%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0929KY529%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51eI-TXqfFL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 3324.95,
+        "currency": "USD",
+        "raw": "$3,324.95"
+      }
+    },
+    {
+      "title": "Nikon Z 6II 24.5MP Mirrorless Digital Camera with 24-70mm Lens (1663) USA Model Deluxe Bundle with SanDisk 64GB Extreme SD Card + Nikon FTZ Adapter + Nikon Camera Bag + Editing Software + More",
+      "asin": "B08R74BLCZ",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A01327303HW7019SNQJ7W&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB08R74BLCZ%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08R74BLCZ%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51TeR0ea8wL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 2,
+      "price": {
+        "symbol": "$",
+        "value": 2904.95,
+        "currency": "USD",
+        "raw": "$2,904.95"
+      }
+    },
+    {
+      "title": "Nikon Z 6II Mirrorless Digital Camera 24.5MP with 24-70mm Lens (1663) USA Model + FTZ Mount + 4K Monitor + 64GB XQD Card + Pro Mic + Corel Photo Software Software + Case + Filter Kit + More",
+      "asin": "B08RF1RVWV",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A0196949W8RT3863TQCQ&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB08RF1RVWV%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB08RF1RVWV%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51oTDbIxPfL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 3334.95,
+        "currency": "USD",
+        "raw": "$3,334.95"
+      }
+    },
+    {
+      "title": "Nikon Z 6II Mirrorless Digital Camera 24.5MP (Body Only) (1659) USA Model + FTZ Mount + 64GB XQD Card + Corel Photo Software + Case + HDMI Cable + Cleaning Set + More",
+      "asin": "B0929GFMQ2",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A00006921OTKS9LH7NPYH&qualifier=1660671748&id=4972712934119399&widgetName=sp_detail&url=%2Fdp%2FB0929GFMQ2%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0929GFMQ2%26pd_rd_w%3DIZ5mM%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51VxhNRuiaL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 2354.95,
+        "currency": "USD",
+        "raw": "$2,354.95"
+      }
+    },
+    {
+      "title": "Nikon Z 6II 24.5MP Mirrorless Digital Camera (Body Only) (1659) USA Model Deluxe Bundle with High-Speed 64GB Extreme SD Card + Nikon Digital Camera Bag + Corel Editing Software + Much More",
+      "asin": "B092KG25LK",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A03129552BO8TKIWMNGO3&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB092KG25LK%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB092KG25LK%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51fvPfxFxJL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "$",
+        "value": 2004.95,
+        "currency": "USD",
+        "raw": "$2,004.95"
+      }
+    },
+    {
+      "title": "Sony a7 III ILCE7M3/B Full-Frame Mirrorless Interchangeable-Lens Camera with 3-Inch LCD, Body Only,Base Configuration,Black",
+      "asin": "B07B43WPVK",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A09674931KUXLY9PQTB4T&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB07B43WPVK%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07B43WPVK%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41bXZBrRQFL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1822,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 1998,
+        "currency": "USD",
+        "raw": "$1,998.00"
+      }
+    },
+    {
+      "title": "Nikon Z 6II 24.5MP Mirrorless Digital Camera with 24-70mm Lens (1663) USA Model Deluxe Bundle with Sony 64GB XQD Memory Card + Nikon DSLR Camera Bag + Corel Editing Software + Filter Kit",
+      "asin": "B08R74XJST",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0917186O0RZM6WWOARC&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB08R74XJST%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08R74XJST%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51ZK-nFHUKL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "$",
+        "value": 2739.95,
+        "currency": "USD",
+        "raw": "$2,739.95"
+      }
+    },
+    {
+      "title": "Sony a7S III Mirrorless Full Frame Camera Body + Sony FE 35mm F1.4 GM G Master Lens SEL35F14GM + ILCE-7SM3/B Bundle with Deco Gear Photography Backpack Case + Microphone + LED + Monopod & Accessories",
+      "asin": "B097J2WHJL",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A00000942E3DQWM4RF4KY&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB097J2WHJL%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB097J2WHJL%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51wVT8gnasS._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 4898,
+        "currency": "USD",
+        "raw": "$4,898.00"
+      }
+    },
+    {
+      "title": "Panasonic LUMIX S5 Full Frame Mirrorless Camera, 4K 60P Video Recording with Flip Screen & WiFi, LUMIX S 20-60mm F3.5-5.6 Lens, L-Mount, 5-Axis Dual I.S, DC-S5KK (Black)",
+      "asin": "B08FCYFL42",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A04743273J3BAUDU99EJB&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB08FCYFL42%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08FCYFL42%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/417Uj1tsLHL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 171,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 1997.99,
+        "currency": "USD",
+        "raw": "$1,997.99"
+      }
+    },
+    {
+      "title": "Nikon Z6II Mirrorless Camera Body FX-Format Full-Frame 4K UHD 1659 Bundle with FTZ Lens Mount Adapter + Deco Gear Backpack Case + LED + 64GB CFexpress Card + Photo Video Software Kit & Accessories",
+      "asin": "B08NQ1JNGN",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0571377315OUBR8YLAHZ&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB08NQ1JNGN%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08NQ1JNGN%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/61FSBw9m87L._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 7,
+      "price": {
+        "symbol": "$",
+        "value": 2399.99,
+        "currency": "USD",
+        "raw": "$2,399.99"
+      }
+    },
+    {
+      "title": "Video Pro CFExpress Type 512GB Card (1700/1400 R/W) + SD Card UHS-II 256GB SDXC Memory Card U3 V60 (R 265mb/s 120mb/s Write)(Some Nikon Cameras Need a firmware Update to be Compatible W CFexpress)",
+      "asin": "B09TQ5JCK7",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A04777231B95PNSN36VY9&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB09TQ5JCK7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09TQ5JCK7%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/412MBKnNLbL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 11,
+      "price": {
+        "symbol": "$",
+        "value": 349,
+        "currency": "USD",
+        "raw": "$349.00"
+      }
+    },
+    {
+      "title": "Sony a7S III Mirrorless Full Frame Camera Body + Sony FE 50mm F1.2 GM G Master Lens SEL50F12GM + ILCE-7SM3/B Bundle with Deco Gear Photography Backpack Case + Microphone + LED + Monopod & Accessories",
+      "asin": "B097J47GQV",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0008098SIYQQWRUHGAR&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB097J47GQV%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB097J47GQV%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51YUQ+F0mlS._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 5498,
+        "currency": "USD",
+        "raw": "$5,498.00"
+      }
+    },
+    {
+      "title": "Nikon Z 6II Mirrorless Digital Camera 24.5MP (Body Only) (1659) USA Model + FTZ Mount + 64GB XQD Card + Corel Photo Software + Case + HDMI Cable + Cleaning Set + More",
+      "asin": "B0929GFMQ2",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A00006921OTKS9LH7NPYH&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB0929GFMQ2%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0929GFMQ2%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51VxhNRuiaL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 2354.95,
+        "currency": "USD",
+        "raw": "$2,354.95"
+      }
+    },
+    {
+      "title": "Leica SL2 Mirrorless Digital Camera (Body Only) (10854) + 64GB Extreme Pro Card + Card Reader + Case + Cleaning Set + Memory Wallet - Starter Bundle",
+      "asin": "B08RHHVDBL",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0698903CEIZZN3A9T6B&qualifier=1660671748&id=1464466557767672&widgetName=sp_detail2&url=%2Fdp%2FB08RHHVDBL%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08RHHVDBL%26pd_rd_w%3DzHY1u%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DDQGDVTQPDBB4AB2DDBVP%26pd_rd_wg%3DcI1Qm%26pd_rd_r%3D66c93eed-32dd-4dfc-b7cc-7832ec83e252%26s%3Dphoto%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51ezpA45VVL._AC_SR160,160_.jpg",
+      "rating": 1,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "$",
+        "value": 5124.95,
+        "currency": "USD",
+        "raw": "$5,124.95"
+      }
+    }
+  ]
+}
